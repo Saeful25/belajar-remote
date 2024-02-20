@@ -4,4 +4,4 @@ Buah buahan
 3.Jeruk
 4.pisang
 5.manggis
-6.durian
+6.Kiwi
