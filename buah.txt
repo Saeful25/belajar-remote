@@ -3,3 +3,6 @@ Buah buahan
 2.Apel
 3.Jeruk
 4.pisang
+5.Rambutan
+6.Kiwi
+
