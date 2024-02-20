@@ -1,0 +1,6 @@
+Pencapaian di tahun 2024
+1 belajar Laravel
+2 Memahami dasar dasar laravel
+3 mempunyai hosting/domain sendiri
+4 mempelajari ui/ux
+5 mempunyai website yang sudah di hosting
