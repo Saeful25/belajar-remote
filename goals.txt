@@ -1,5 +1,5 @@
 Pencapaian di tahun 2024
-1 belajar Laravel
+1 mengerti tentang dasar dasar pemrograman beckend
 2 Memahami dasar dasar laravel
 3 mempunyai hosting/domain sendiri
 4 mempelajari ui/ux
