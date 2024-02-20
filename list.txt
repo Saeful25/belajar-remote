@@ -1,0 +1,4 @@
+nama nama barang 
+1.kursi 
+2.meja
+3.computer
